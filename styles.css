@@ -1,0 +1,246 @@
+body {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(24, 5%, 18%);
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  margin: 0px;
+}
+
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 70px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+img {
+  width: 100%;
+}
+
+.heading p {
+  font-family: Young Serif, Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  margin-left: 0;
+  margin-top: 30px;
+}
+
+.heading {
+  margin-left: 30px;
+}
+
+.heading p {
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+.sub-heading p {
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+}
+
+.sub-heading {
+  margin-left: 30px;
+}
+
+.preparation {
+  background-color: hsl(30, 54%, 90%);
+  border-radius: 8px;
+  margin-bottom: 40px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  padding-bottom: 7px;
+  padding-right: 50px;
+  padding-top: 10px;
+}
+
+.preparation p {
+  color: hsl(332, 51%, 32%);
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.bold-charcoal {
+  color: hsl(24, 5%, 18%);
+  font-weight: 700;
+}
+
+.bold-charcoal,
+li {
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+}
+
+li {
+  color: hsl(24, 5%, 18%);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 20px;
+  margin-bottom: 8px;
+}
+
+#prep-list::marker {
+  color: hsl(332, 51%, 32%);
+}
+
+.ingredients-heading {
+  color: hsl(14, 45%, 36%);
+  font-family: Young Serif, Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-left: 30px;
+}
+
+.ingredients li {
+  margin-left: 13px;
+}
+
+.ingredients li::marker {
+  color: hsl(14, 45%, 36%);
+}
+
+hr {
+  border: 0.5px solid hsl(30, 18%, 87%);
+  margin-bottom: 30px;
+  margin-top: 30px;
+  margin-left: 30px;
+  width: 85%;
+}
+
+.instructions {
+  padding-right: 12px;
+}
+
+.instructions li {
+  color: hsl(14, 45%, 36%);
+  font-weight: 700;
+  margin-left: 20px;
+}
+
+.instructions-heading {
+  color: hsl(14, 45%, 36%);
+  font-family: Young Serif, Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  margin-left: 35px;
+}
+
+#shift {
+  color: hsl(24, 5%, 18%);
+  margin-left: 12px;
+  font-weight: 400;
+}
+
+#outfit {
+  color: hsl(24, 5%, 18%);
+  font-family: Outfit, Arial, Helvetica, sans-serif;
+  font-weight: 400;
+}
+
+.nutrition {
+  padding-right: 20px;
+}
+
+.nutrition-heading {
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+
+.nutrition-intro {
+  margin-bottom: 40px;
+  margin-left: 30px;
+}
+
+.nutrition-heading {
+  color: hsl(14, 45%, 36%);
+  font-family: Young Serif, Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+#table {
+  margin-bottom: 12px;
+  margin-left: 60px;
+}
+
+.nutrition p {
+  color: hsl(24, 5%, 18%);
+}
+
+.intro {
+  padding-right: 12px;
+  margin: 0;
+}
+
+#table-divider {
+  margin-bottom: 10px;
+  margin-top: 0px;
+}
+
+.two-seven-seven,
+.zero,
+.twenty,
+.twenty-two {
+  color: hsl(14, 45%, 36%);
+  font-weight: 700;
+}
+
+.two-seven-seven {
+  margin-left: 80px;
+}
+
+.zero {
+  margin-left: 95px;
+}
+
+.twenty {
+  margin-left: 85px;
+}
+
+.twenty-two {
+  margin-left: 110px;
+}
+
+#pad {
+  margin-left: 12px;
+}
+
+@media screen and (min-width: 1056px) {
+  body {
+    background-color: hsl(30, 54%, 90%);
+  }
+
+  .desktop {
+    padding: 100px 300px 100px 300px;
+  }
+
+  img {
+    border-radius: 10px;
+  }
+
+  .body-container {
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+    padding: 30px;
+  }
+
+  .two-seven-seven {
+    margin-left: 250px;
+  }
+
+  .zero {
+    margin-left: 265px;
+  }
+
+  .twenty {
+    margin-left: 255px;
+  }
+
+  .twenty-two {
+    margin-left: 282px;
+  }
+}
