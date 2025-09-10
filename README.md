@@ -31,11 +31,12 @@ I'm a frontend developer building my version of the digital world one step at a 
 ### 📊 Stats
 
 ![Twith2e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twith2e&show_icons=true&theme=gruvbox)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Twith2e&show_icons=true&locale=en&layout=compact" alt="Twith2e" /></p>
 
 
 #
 <!--
 <details>
- <summary><h3>👨‍💻 Forrest's Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 Abdulbasit's Coding Journey</h3></summary>
 
 -->
