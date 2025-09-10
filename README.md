@@ -29,9 +29,10 @@ I'm a frontend developer building my version of the digital world one step at a 
 #
 
 ### 📊 Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Twith2e&show_icons=true&locale=en&layout=compact" alt="Twith2e" /></p>
+
 
 ![Twith2e's GitHub stats](https://github-readme-stats.vercel.app/api?username=Twith2e&show_icons=true&theme=gruvbox)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Twith2e&show_icons=true&locale=en&layout=compact" alt="Twith2e" /></p>
 
 
 #
