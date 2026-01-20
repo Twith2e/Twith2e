@@ -1,8 +1,8 @@
 # ♟️ Abdulbasit Adebajo
 
-**`Digital Craftsman (Developer)`**
+**`Digital Craftsman (Software Engineer)`**
 
-I'm a frontend developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+Software Engineer who learns by building. I work across the stack with React, Node.js, Go, NestJS, and databases like MongoDB, PostgreSQL, and Firestore to create APIs, real-time apps, dashboards, and integrations. Focused on writing clean, practical code and growing into backend and platform engineering.
 
 
 ---
